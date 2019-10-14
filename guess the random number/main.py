@@ -1,0 +1,2 @@
+import guessing
+guessing.guess( )
